@@ -987,6 +987,10 @@ p {
     -o-transition: all .3s ease-out 0s;
     transition: all .3s ease-out 0s
 }
+.header_social li a i.dribbble {
+    font-size: 22px !important ;
+   /* background-color: #ffae34; */
+}
 
 @media only screen and (min-width:1200px) and (max-width:1399px) {
     .header_social li a {
